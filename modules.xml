@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Binary seaarch/Binary seaarch.iml" filepath="$PROJECT_DIR$/Binary seaarch/Binary seaarch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bitwise operator and number system/bitwise operator and number system.iml" filepath="$PROJECT_DIR$/bitwise operator and number system/bitwise operator and number system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditional/conditional.iml" filepath="$PROJECT_DIR$/conditional/conditional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cycle_sort/cycle_sort.iml" filepath="$PROJECT_DIR$/cycle_sort/cycle_sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functions/functions.iml" filepath="$PROJECT_DIR$/functions/functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java bootcamp code.iml" filepath="$PROJECT_DIR$/.idea/java bootcamp code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linear_search/linear_search.iml" filepath="$PROJECT_DIR$/linear_search/linear_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern/pattern.iml" filepath="$PROJECT_DIR$/pattern/pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string and string builder/string and string builder.iml" filepath="$PROJECT_DIR$/string and string builder/string and string builder.iml" />
+    </modules>
+  </component>
+</project>

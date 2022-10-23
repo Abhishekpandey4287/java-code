@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e857f51a-37cd-415d-a083-9e71ecb2c844" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Binary seaarch/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary seaarch/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary seaarch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary seaarch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary seaarch/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary seaarch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary seaarch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary seaarch/Binary seaarch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary seaarch/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary seaarch/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary seaarch/src/ceilingofNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary seaarch/src/infinitebinarysearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary seaarch/src/mountain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary seaarch/src/opptoceilingofnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary seaarch/src/orderagnostic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary seaarch/src/peakmountain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary seaarch/src/rowcolmatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary seaarch/src/selectionsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/src/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/src/arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/src/matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/src/reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitwise operator and number system/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitwise operator and number system/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitwise operator and number system/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitwise operator and number system/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitwise operator and number system/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitwise operator and number system/bitwise operator and number system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitwise operator and number system/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitwise operator and number system/src/evenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitwise operator and number system/src/noofdigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitwise operator and number system/src/powerof2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bitwise operator and number system/src/uniqueNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cycle_sort/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cycle_sort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cycle_sort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cycle_sort/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cycle_sort/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cycle_sort/cycle_sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cycle_sort/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cycle_sort/src/findDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cycle_sort/src/question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cycle_sort/src/sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/src/changevalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/src/function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/src/overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/src/vararg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_search/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_search/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_search/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_search/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_search/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_search/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_search/linear_search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_search/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_search/src/SearchInTwoDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_search/src/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_search/src/maxima.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_search/src/maximumWealth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_search/src/minimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linear_search/src/string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pattern/src/pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recursion/src/febonati.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string and string builder/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string and string builder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string and string builder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string and string builder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string and string builder/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string and string builder/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string and string builder/src/string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string and string builder/string and string builder.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/arrays" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GXmpCbKSBeYEOPwKCyI0f65j06" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/pande/java bootcamp code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reverse" />
+      <module name="arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.reverse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e857f51a-37cd-415d-a083-9e71ecb2c844" name="Changes" comment="" />
+      <created>1666543496597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666543496597</updated>
+      <workItem from="1666543509722" duration="286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

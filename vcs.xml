@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Binary seaarch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arrays" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bitwise operator and number system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cycle_sort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/functions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/linear_search" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pattern" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/recursion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/string and string builder" vcs="Git" />
+  </component>
+</project>
