@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f15ee7ee-b700-4051-8a4f-84c687f7dec2" name="New changelist" comment="New changelist" />
+    <list id="957b6829-d937-4815-90eb-e1e865d433c3" name="Changes" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="INCOMING_CHECK_STRATEGY" value="Always" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O8wRpRxKCQ9qqNwHWoPTLrPaxD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Users/pande/oops",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.fileToRead">
+    <configuration name="binarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarySearch" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fileToRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file.fileToRead" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fileToWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file.fileToWrite" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="findNumber" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findStartingAndEndingPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="findStartingAndEndingPosition" />
+      <module name="java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.fileToRead" />
+        <item itemvalue="Application.fileToWrite" />
+        <item itemvalue="Application.findStartingAndEndingPosition" />
+        <item itemvalue="Application.binarySearch" />
+        <item itemvalue="Application.findNumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="957b6829-d937-4815-90eb-e1e865d433c3" name="Changes" comment="" />
+      <changelist id="f15ee7ee-b700-4051-8a4f-84c687f7dec2" name="New changelist" comment="" />
+      <created>1680955516615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680955516615</updated>
+      <workItem from="1680955518196" duration="6342000" />
+      <workItem from="1681071143658" duration="111000" />
+      <workItem from="1681125369540" duration="123000" />
+      <workItem from="1681127632362" duration="7000" />
+      <workItem from="1681127817767" duration="30000" />
+      <workItem from="1681127910874" duration="7516000" />
+      <workItem from="1681301533583" duration="2624000" />
+      <workItem from="1681306157350" duration="608000" />
+      <workItem from="1681404361757" duration="110000" />
+      <workItem from="1681446681243" duration="1674000" />
+      <workItem from="1681480107971" duration="3585000" />
+      <workItem from="1681564085119" duration="124000" />
+      <workItem from="1681565349548" duration="2964000" />
+      <workItem from="1681651280596" duration="2420000" />
+      <workItem from="1681828804107" duration="144000" />
+      <workItem from="1681922679140" duration="585000" />
+      <workItem from="1681993113902" duration="4576000" />
+      <workItem from="1682141337322" duration="606000" />
+      <workItem from="1682237049247" duration="3192000" />
+      <workItem from="1682892991832" duration="8000" />
+      <workItem from="1683019436228" duration="52000" />
+      <workItem from="1683985119313" duration="563000" />
+      <workItem from="1684946052700" duration="3025000" />
+      <workItem from="1685012537924" duration="726000" />
+      <workItem from="1685162058748" duration="1601000" />
+      <workItem from="1685367381255" duration="690000" />
+      <workItem from="1686061661171" duration="850000" />
+      <workItem from="1686861753131" duration="6000" />
+      <workItem from="1689320108726" duration="593000" />
+      <workItem from="1689341057721" duration="2716000" />
+      <workItem from="1689485696145" duration="3610000" />
+      <workItem from="1690034206239" duration="2401000" />
+      <workItem from="1690263861413" duration="1085000" />
+      <workItem from="1690524659150" duration="32000" />
+      <workItem from="1690538386095" duration="893000" />
+      <workItem from="1690597576795" duration="3314000" />
+      <workItem from="1690914864405" duration="35000" />
+      <workItem from="1691388154711" duration="2333000" />
+      <workItem from="1691439977282" duration="5000" />
+      <workItem from="1691461890928" duration="40000" />
+      <workItem from="1691819534271" duration="3374000" />
+      <workItem from="1691906160082" duration="4776000" />
+      <workItem from="1691951702665" duration="1701000" />
+      <workItem from="1691993307672" duration="6028000" />
+      <workItem from="1692097308325" duration="2233000" />
+      <workItem from="1692274230519" duration="4758000" />
+      <workItem from="1692392986814" duration="1462000" />
+      <workItem from="1692448422520" duration="4519000" />
+      <workItem from="1692455568495" duration="582000" />
+      <workItem from="1692684687596" duration="4685000" />
+      <workItem from="1692887534975" duration="191000" />
+      <workItem from="1693030818941" duration="34000" />
+      <workItem from="1693138926112" duration="771000" />
+      <workItem from="1693403724025" duration="120000" />
+      <workItem from="1693725816480" duration="594000" />
+      <workItem from="1693732555840" duration="321000" />
+      <workItem from="1694578059127" duration="615000" />
+      <workItem from="1695492722461" duration="994000" />
+      <workItem from="1695495433789" duration="3512000" />
+      <workItem from="1695532516871" duration="2196000" />
+      <workItem from="1695702781733" duration="1562000" />
+      <workItem from="1695704598058" duration="2008000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/hello.java</url>
+          <line>3</line>
+          <properties class="hello" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/learnException.java</url>
+          <line>1</line>
+          <properties class="learnException" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/GFGdivision.java</url>
+          <line>6</line>
+          <properties class="GFGdivision" method="sumOfDivisors">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/selection_sort.java</url>
+          <line>3</line>
+          <properties class="selection_sort" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/factor.java</url>
+          <line>15</line>
+          <properties class="factor" method="fibo">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/learnThread.java</url>
+          <line>1</line>
+          <properties class="learnThread" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GFG.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/bubble.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mergeSort.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/mergeSort.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/countDigit.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/countDigit.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/learnQuickSort.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
