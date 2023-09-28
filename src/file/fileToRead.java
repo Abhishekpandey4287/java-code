@@ -1,6 +1,5 @@
 package file;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class fileToRead {
@@ -13,7 +12,7 @@ public class fileToRead {
                 System.out.println(data );
             }
             in.close();
-        } catch (FileNotFoundException e) {
+        } catch (Exception e) {
             System.out.println("error");
             e.printStackTrace();
         }
